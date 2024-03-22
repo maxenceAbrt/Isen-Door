@@ -1,0 +1,4 @@
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Projects/STM32L476RG-Nucleo/Applications/PollingTagDetect/Src/logger.c:73:6:logUsartInit	0	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Projects/STM32L476RG-Nucleo/Applications/PollingTagDetect/Src/logger.c:85:9:logUsartTx	4	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Projects/STM32L476RG-Nucleo/Applications/PollingTagDetect/Src/logger.c:93:5:logUsart	272	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Projects/STM32L476RG-Nucleo/Applications/PollingTagDetect/Src/logger.c:117:7:hex2Str	24	static

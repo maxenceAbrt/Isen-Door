@@ -1,0 +1,11 @@
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfcb.c:214:12:rfalNfcbPollerCheckPresence.part.0	48	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfcb.c:339:12:rfalNfcbPollerSlottedCollisionResolution.part.0	104	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfcb.c:182:12:rfalNfcbPollerInitialize	8	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfcb.c:200:12:rfalNfcbPollerInitializeWithParams	16	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfcb.c:214:12:rfalNfcbPollerCheckPresence	40	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfcb.c:259:12:rfalNfcbPollerSleep	40	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfcb.c:287:12:rfalNfcbPollerSlotMarker	40	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfcb.c:322:12:rfalNfcbPollerTechnologyDetection	40	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfcb.c:331:12:rfalNfcbPollerCollisionResolution	32	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfcb.c:339:12:rfalNfcbPollerSlottedCollisionResolution	12	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfcb.c:493:10:rfalNfcbTR2ToFDT	8	static

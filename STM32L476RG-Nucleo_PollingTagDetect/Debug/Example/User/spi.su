@@ -1,0 +1,4 @@
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Projects/STM32L476RG-Nucleo/Applications/PollingTagDetect/Src/spi.c:55:6:spiInit	0	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Projects/STM32L476RG-Nucleo/Applications/PollingTagDetect/Src/spi.c:63:6:spiSelect	0	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Projects/STM32L476RG-Nucleo/Applications/PollingTagDetect/Src/spi.c:68:6:spiDeselect	0	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Projects/STM32L476RG-Nucleo/Applications/PollingTagDetect/Src/spi.c:73:19:spiTxRx	24	static

@@ -1,0 +1,5 @@
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Drivers/BSP/Components/ST25R3911/timer.c:68:10:timerCalculateTimer	8	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Drivers/BSP/Components/ST25R3911/timer.c:75:6:timerIsExpired	8	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Drivers/BSP/Components/ST25R3911/timer.c:99:6:timerDelay	8	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Drivers/BSP/Components/ST25R3911/timer.c:110:6:timerStopwatchStart	8	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Drivers/BSP/Components/ST25R3911/timer.c:117:10:timerStopwatchMeasure	8	static

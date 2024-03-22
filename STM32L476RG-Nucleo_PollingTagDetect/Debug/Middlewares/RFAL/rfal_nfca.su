@@ -1,0 +1,8 @@
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfca.c:178:12:rfalNfcaPollerInitialize	8	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfca.c:194:12:rfalNfcaPollerCheckPresence	24	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfca.c:213:12:rfalNfcaPollerTechnologyDetection	32	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfca.c:228:12:rfalNfcaPollerSingleCollisionResolution	104	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfca.c:414:12:rfalNfcaPollerFullCollisionResolution	56	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfca.c:534:12:rfalNfcaPollerSelect	72	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfca.c:594:12:rfalNfcaPollerSleep	32	static
+C:/Users/Maxence/STM32Cube/Repository/Packs/STMicroelectronics/en.x-cube-nfc5/STM32CubeExpansion_NFC5_V2.0.0/Middlewares/ST/rfal/Src/rfal_nfca.c:614:6:rfalNfcaListenerIsSleepReq	0	static
